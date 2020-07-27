@@ -33,8 +33,7 @@ This null pointer error is very common, but compilation Error reporting template
 Through a project on this course practice is the most effective, 
 but also the most fruitful, 
 let me learn a lot, pay attention to the unimportant sides and details.    
-Although the software is not perfect, but the most basic functions have been achieved, 
-and harvest is the most important. In the future, we can continue to design and develop according to the needs, 
-add modules and learn more deeply.
+Although this app is not perfect, but the most basic functions have been achieved, 
+and the gain is the most important. 
 
  
